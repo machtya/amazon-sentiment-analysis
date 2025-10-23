@@ -179,7 +179,7 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn nltk
 ### Run Analysis
 
 ```bash
-git clone https://github.com/rachmatia/amazon-sentiment-analysis.git
+git clone https://github.com/machtya/amazon-sentiment-analysis.git
 cd amazon-sentiment-analysis
 python sentiment_analysis.py
 ```
@@ -196,10 +196,9 @@ amazon-sentiment-analysis/
 ├── sentiment_analysis.py       # Main script
 ├── requirements.txt            # Dependencies
 ├── README.md                   # Documentation
-├── .gitignore                  # Git ignore rules
-└── outputs/
-    ├── sentiment_analysis_eda.png
-    └── confusion_matrix.png
+├── thought_process_doc.md
+├── sentiment_analysis_eda.png 
+└── confusion_matrix.png       
 ```
 
 ## 🔮 Future Improvements
@@ -214,8 +213,7 @@ amazon-sentiment-analysis/
 
 **Rachmatia**
 
-- GitHub: [@rachmatia](https://github.com/rachmatia)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@machtya](https://github.com/machtya)
 - Kaggle: [kaggle.com/rachmatia](https://kaggle.com/rachmatia)
 
 ## 📄 License
