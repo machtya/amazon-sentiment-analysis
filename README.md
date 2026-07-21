@@ -227,9 +227,3 @@ If you find this project helpful, please consider giving it a star!
 ---
 
 <div align="center">
-
-**Made with ❤️ by Rachmatia**
-
-*Turning customer feedback into actionable insights*
-
-</div>
